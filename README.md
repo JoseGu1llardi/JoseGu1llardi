@@ -1,11 +1,12 @@
 ### Hi! I am José Guillardi ✌️🤓
-<br>
+
+<h4>"Nothing in this world beats good old persistence. Talent doesn’t. Nothing more common than talented failures. Genius doesn’t. Unrecognized geniuses is practically a cliché. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."</h4>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-wellington-ribeiro-a26418163/)
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/grillardi/)
 
 ![Gu1llardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseGu1llardi&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGu1llardi)](https://github.com/JoseGu1llardi)
 
 ## Technologies I use in my day
 
@@ -20,9 +21,11 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGu1llardi)](https://github.com/JoseGu1llardi)
+
+<br />
+
 <br />
 
 <h3>Enthusiast of the best web and mobile development technologies.</h3>
 <br />
-
-<h3>"Nothing in this world beats good old persistence. Talent doesn’t. Nothing more common than talented failures. Genius doesn’t. Unrecognized geniuses is practically a cliché. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."</h3>
