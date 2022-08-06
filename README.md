@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/grillardi/)
 
 ![Gu1llardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseGu1llardi&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseGu1llardi)](https://github.com/JoseGu1llardi)
 
 ## Technologies I use in my day
 
@@ -16,3 +17,12 @@
     <img align='center' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='HTML5'>
     <img align='center' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='HTML5'>
 </div>
+
+<br />
+
+<br />
+
+<h3>Enthusiast of the best web and mobile development technologies.</h3>
+<br />
+
+<h3>"Nothing in this world beats good old persistence. Talent doesn’t. Nothing more common than talented failures. Genius doesn’t. Unrecognized geniuses is practically a cliché. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."</h3>
