@@ -4,8 +4,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-wellington-ribeiro-a26418163/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/grillardi/)  
-![Gu1llardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseGu1llardi&show_icons=true&theme=dracula)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/grillardi/)
 
 ---
 
